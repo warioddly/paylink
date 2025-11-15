@@ -1,10 +1,3 @@
-import 'package:flutter/material.dart';
+import 'package:paylink/core/base/view_model.dart';
 
-class AppView extends StatelessWidget {
-  const AppView({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Placeholder();
-  }
-}
+class AppViewModel extends ViewModel {}
