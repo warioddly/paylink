@@ -41,6 +41,8 @@ dependencies:
   ui: ^0.0.1
   utils: ^0.0.1
 
+  bloc: ^9.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
